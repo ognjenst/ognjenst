@@ -15,8 +15,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ognjenst&theme=github_dark" />
 </a>
 <br />Hi there. My name is Ognjen and this is what I do. Mostly, I use these, but there is more behind the stats. :)
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ognjenst/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ognjenst&theme=github_dark" />
 </a>
-</p>
+</p> -->
