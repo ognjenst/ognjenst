@@ -8,6 +8,7 @@
 <br />
 
 My name is Ognjen, and this is what I do!
+<br />
 <a href="https://github.com/ognjenst/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ognjenst&theme=github_dark" />
 </a>
