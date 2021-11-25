@@ -14,8 +14,6 @@
 </a></td>
  </tr>
 </table>
-```
-
 <a href="https://github.com/ognjenst">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ognjenst&theme=github_dark" />
 </a>
