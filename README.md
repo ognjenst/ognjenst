@@ -1,7 +1,7 @@
 
 
 ### Hey there 
-Hi there. My name is Ognjen and this is what I do. Mostly, I use these, but there is more behind the stats. :)
+Hi there. My name is Ognjen and this is what I do. :)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ognjenst)
 <a href="https://www.linkedin.com/in/ognjen-stefanovic-9b7853b6/">
