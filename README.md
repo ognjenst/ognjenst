@@ -9,8 +9,11 @@ Hello stranger! My name is Ognjen and this is what I do. :)
 </a>
 <br />
 
-<a href="https://github.com/ognjenst">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ognjenst&theme=github_dark" />
+<a href="https://github.com/ognjenst/ognjenst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ognjenst&theme=github_dark&langs_count=3" />
+</a>
+<a href="https://github.com/ognjenst/ognjenst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ognjenst&show_icons=true&line_height=27&count_private=true&theme=github_dark" alt="Martin's GitHub Stats" />
 </a>
 
 <!-- <p align="center">
