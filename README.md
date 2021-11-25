@@ -6,12 +6,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ognjenst)
 
 <br />
-
-My name is Ognjen, and this is what I do!
-<br />
-<a href="https://github.com/ognjenst/github-readme-stats">
+<table border="0">
+ <tr>
+    <td><p align="left" >My name is Ognjen, and this is what I do! Mostly, I use these, but there is more behind the stats :)</p></td>
+    <td><a href="https://github.com/ognjenst/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ognjenst&theme=github_dark" />
-</a>
+</a></td>
+ </tr>
+</table>
+```
+
 <a href="https://github.com/ognjenst">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ognjenst&theme=github_dark" />
 </a>
