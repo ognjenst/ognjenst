@@ -8,6 +8,7 @@ Hi there. My name is Ognjen and this is what I do. :)
   <img align="left" alt="Ognjens's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
 </a>
 <br />
+
 <a href="https://github.com/ognjenst">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ognjenst&theme=github_dark" />
 </a>
