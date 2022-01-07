@@ -1,7 +1,7 @@
 
 
 ### Hey there 
-Hello stranger! My name is Ognjen and this is what I do. :)
+Hello stranger! My name is Ognjen and this is what I do.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ognjenst)
 <a href="https://www.linkedin.com/in/ognjen-stefanovic-9b7853b6/">
