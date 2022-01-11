@@ -1,5 +1,5 @@
 
-![Image](https://i.pinimg.com/originals/a4/e0/60/a4e060897b18d6bc0b99142dffeec644.jpg)
+![Coffee](https://i.pinimg.com/originals/b6/d9/e4/b6d9e4bb3642d036a207f7a83b2f9128.jpg)
 ### Hey there 
 Hello stranger! My name is Ognjen and this is what I do.
 
