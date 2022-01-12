@@ -9,12 +9,12 @@ Hello stranger! My name is Ognjen and this is what I do.
 </a>
 <br />
 
-<a href="https://github.com/ognjenst/ognjenst">
+<!-- <a href="https://github.com/ognjenst/ognjenst">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ognjenst&show_icons=true&line_height=33&count_private=true&theme=github_dark" alt="Ognjen's GitHub Stats" />
 </a>
 <a href="https://github.com/ognjenst/ognjenst">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ognjenst&theme=github_dark&langs_count=4" />
-</a>
+</a> -->
 
 
 <!-- <p align="center">
