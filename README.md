@@ -21,4 +21,3 @@ Hello stranger and welcome. Feel free to wander around! :)
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ognjenst&theme=github_dark" />
 </a>
 </p> -->
-Edit one
