@@ -8,6 +8,7 @@ Hello stranger and welcome. Feel free to wander around! :)
   <img align="left" alt="Ognjens's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
 </a>
 <br />
+<br />
 
  <a href="https://github.com/ognjenst/ognjenst">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ognjenst&show_icons=true&line_height=33&count_private=true&theme=github_dark" alt="Ognjen's GitHub Stats" />
