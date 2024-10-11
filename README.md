@@ -11,7 +11,7 @@ Hello stranger and welcome. Feel free to wander around! :)
   <img align="left" alt="Ognjens's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
 </a>
 -->
-
+<!--
 <br />
 <br />
 
