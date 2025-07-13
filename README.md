@@ -3,7 +3,7 @@
 ### Hey there!
 Hello stranger and welcome. Feel free to wander around! :)
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ognjenst) -->
+![](https://visitor-badge.glitch.me/badge?page_id=ognjenst)
 
 <!--
 
