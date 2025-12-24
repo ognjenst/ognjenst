@@ -3,6 +3,7 @@
 ### Hey there!
 Hello stranger and welcome. Feel free to wander around! :)
 
+[![wakatime](https://wakatime.com/badge/user/b062b0a0-b71f-4507-8040-782d68294c3b.svg)](https://wakatime.com/@b062b0a0-b71f-4507-8040-782d68294c3b)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=ognjenst) -->
 
 
